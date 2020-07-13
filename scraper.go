@@ -3,7 +3,6 @@ package scraper
 import (
 	"net/http"
 	"net/http/cookiejar"
-	"remote"
 
 	"github.com/PuerkitoBio/goquery"
 )
